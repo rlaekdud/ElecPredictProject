@@ -11,6 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
+  <%
+    response.sendRedirect("/FE_templeteTest/index.html");
+  %>
   $END$
   </body>
 </html>
